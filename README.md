@@ -1,5 +1,5 @@
 # machine_learning_journey
-Projects developed during my **Data Science learning journey**. 👩🏻‍💻
+Projects developed during my **Data Science journey**. 👩🏻‍💻
 
 ### Fetal Health Classification
 
